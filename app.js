@@ -23,10 +23,10 @@ var finding= prompt("Enter a Alphabet")
 document.write(`String: ${letter} <br> Last Index of ${finding}: ${letter.lastIndexOf(finding)}`)
 
 // Question # 05
-// var third= prompt("Enter a Word")
-// var index= third.charAt(3)
+var third= prompt("Enter a Word")
+var index= third.charAt(3)
 
-// document.write(`String: ${third} <br> Character at index 3: ${index}`)
+document.write(`String: ${third} <br> Character at index 3: ${index}`)
 
 // Question # 06
 // var fName= prompt("Enter First Name")
