@@ -41,10 +41,10 @@ var result= enterWord.replace ("Hyderabad", "Islamabad")
 document.write(`City Entered:  ${enterWord} <br> After Replacement: ${result}`)
 
 // Question # 08
-// var message = "Ali and Sami are best friends. They play cricket and football together.";
-// var result= message.replace (/and/g , "&");
+var message = "Ali and Sami are best friends. They play cricket and football together.";
+var result= message.replace (/and/g , "&");
 
-// document.write(message + "<br>" + result)
+document.write(message + "<br>" + result)
 
 // Question # 09
 // document.write(`Value: 475 <br> Type: ${typeof "475"} <br> Value: 475 <br> Type: ${typeof 475}`)
