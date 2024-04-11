@@ -17,10 +17,10 @@ var find= prompt("Enter a Alphabet")
 document.write(`String: ${country} <br> Index no of ${find}: ${country.indexOf(find)}`)
 
 // Question # 04
-// var letter= prompt("Enter a Word")
-// var finding= prompt("Enter a Alphabet")
+var letter= prompt("Enter a Word")
+var finding= prompt("Enter a Alphabet")
 
-// document.write(`String: ${letter} <br> Last Index of ${finding}: ${letter.lastIndexOf(finding)}`)
+document.write(`String: ${letter} <br> Last Index of ${finding}: ${letter.lastIndexOf(finding)}`)
 
 // Question # 05
 // var third= prompt("Enter a Word")
