@@ -1,14 +1,14 @@
-Question # 01
+// Question # 01
 var firstName= prompt("Enter Your First Name")
 var lastName= prompt("Enter Last Name")
 var fullName= firstName + " " + lastName;
 
-// var result= alert(`Hello ${fullName}`)
+var result= alert(`Hello ${fullName}`)
 
 // Question # 02
-// var favouritePhone= prompt("Enter Your Favourite Phone")
+var favouritePhone= prompt("Enter Your Favourite Phone")
 
-// document.write(`My Favourite Phone Is: ${favouritePhone} <br> Length of string: ${favouritePhone.length}`)
+document.write(`My Favourite Phone Is: ${favouritePhone} <br> Length of string: ${favouritePhone.length}`)
 
 // // Question # 03
 // var country= prompt("Enter Your Country")
