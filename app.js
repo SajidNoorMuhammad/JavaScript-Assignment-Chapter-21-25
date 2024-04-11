@@ -35,10 +35,10 @@ var lName= prompt("Enter Last Name")
 alert (`Welcome ${fName.concat(" " + lName)}`)
 
 // Question # 07
-// var enterWord= ("Hyderabad")
-// var result= enterWord.replace ("Hyderabad", "Islamabad")
+var enterWord= ("Hyderabad")
+var result= enterWord.replace ("Hyderabad", "Islamabad")
 
-// document.write(`City Entered:  ${enterWord} <br> After Replacement: ${result}`)
+document.write(`City Entered:  ${enterWord} <br> After Replacement: ${result}`)
 
 // Question # 08
 // var message = "Ali and Sami are best friends. They play cricket and football together.";
