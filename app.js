@@ -29,10 +29,10 @@ var index= third.charAt(3)
 document.write(`String: ${third} <br> Character at index 3: ${index}`)
 
 // Question # 06
-// var fName= prompt("Enter First Name")
-// var lName= prompt("Enter Last Name")
+var fName= prompt("Enter First Name")
+var lName= prompt("Enter Last Name")
 
-// alert (`Welcome ${fName.concat(" " + lName)}`)
+alert (`Welcome ${fName.concat(" " + lName)}`)
 
 // Question # 07
 // var enterWord= ("Hyderabad")
