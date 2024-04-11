@@ -47,7 +47,7 @@ var result= message.replace (/and/g , "&");
 document.write(message + "<br>" + result)
 
 // Question # 09
-// document.write(`Value: 475 <br> Type: ${typeof "475"} <br> Value: 475 <br> Type: ${typeof 475}`)
+document.write(`Value: 475 <br> Type: ${typeof "475"} <br> Value: 475 <br> Type: ${typeof 475}`)
 
 // Question # 10
 // var userInput= prompt("Enter Any Word")
