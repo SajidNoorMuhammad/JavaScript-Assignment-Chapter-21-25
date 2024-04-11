@@ -11,10 +11,10 @@ var favouritePhone= prompt("Enter Your Favourite Phone")
 document.write(`My Favourite Phone Is: ${favouritePhone} <br> Length of string: ${favouritePhone.length}`)
 
 // // Question # 03
-// var country= prompt("Enter Your Country")
-// var find= prompt("Enter a Alphabet")
+var country= prompt("Enter Your Country")
+var find= prompt("Enter a Alphabet")
 
-// document.write(`String: ${country} <br> Index no of ${find}: ${country.indexOf(find)}`)
+document.write(`String: ${country} <br> Index no of ${find}: ${country.indexOf(find)}`)
 
 // Question # 04
 // var letter= prompt("Enter a Word")
